@@ -3,7 +3,7 @@ age = 23
 name = 'Wendell'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
 
-age, name = (23, 'Wendell')
+age, name = (24, 'Wendell')
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
 
 """No Python não existem constantes, dependendo da convenção de Upper Case para
