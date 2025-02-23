@@ -17,3 +17,17 @@ print(int(resultado_divisao))
 resultado_divisao_inteiro = numero_inteiro // 2
 print(resultado_divisao_inteiro)
 
+print("")
+
+# Exemplos diversos
+print(int(1.97348728)) #float para int
+print(int("10")) #string para int
+print(float("10.11")) #string para float
+print(float(100)) #int para float
+
+#Checando os tipos
+valor = 10
+valor_str = (str(valor))
+
+print(type(valor))
+print(type(valor_str))
