@@ -13,7 +13,7 @@ CPF = 80003768570
 RG = 395693123
 BIRTH_DATE = 13052001
 
-# No Python uma das boas práticas é se utilizar o SNAKE_CASE
+# No Python uma das boas práticas é a de se utilizar o SNAKE_CASE
 ABS_PATH = '/Desktop/PythonProjects/python'
 DEBUG = True
 STATES = [
