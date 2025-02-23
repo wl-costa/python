@@ -1,15 +1,15 @@
 # Números inteiros
-print(1 + 1);
+print(1 + 1)
 
 #Números de ponto flutuante
-print(1.7 + 0.3);
+print(1.7 + 0.3)
 
 #String
-print("Python");
+print("Python")
 
 #Booleano
-print(True);
-print(False);
+print(True)
+print(False)
 
 #Classes
 int()
