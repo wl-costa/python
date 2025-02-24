@@ -3,7 +3,7 @@ def calcular_operacoes():
     y = float(input("Digite o valor de y: "))
 
     soma = x + y
-    divisao = x / y if y != 0 else None #  else None significa que se y for zero, divisao recebe None (indicando que a operação não pode ser feita).
+    divisao = x / y if y != 0 else None #  if else None significa que se y for zero, divisao recebe None (indicando que a operação não pode ser feita).
     multiplicacao = x * y
 
     return soma, divisao, multiplicacao
@@ -31,5 +31,5 @@ def exibir_calculos():
 
     print(f"Soma: {soma}, Divisão: {divisao}, Multiplicação: {multiplicacao}")
 
-# Chamada principal
+
 exibir_calculos()
